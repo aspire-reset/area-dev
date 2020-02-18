@@ -2,13 +2,16 @@
 # for TM1 migrations
 
 #### Data ####
-.cub
-.FEEDERS
-.BLB
+*.cub
+*.FEEDERS
+*.BLB
+Data\*.cub
+Data\*.FEEDERS
+Data\*.BLB
 
 #### Logs ####
-.log
+*.log
 
 #### Compressed files ####
-.zip
+Data\*.zip
 
