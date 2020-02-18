@@ -5,10 +5,13 @@
 .cub
 .FEEDERS
 .BLB
+Data\.cub
+Data\.FEEDERS
+Data\.BLB
 
 #### Logs ####
 .log
 
 #### Compressed files ####
-.zip
+Data\.zip
 
