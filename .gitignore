@@ -5,9 +5,9 @@
 .cub
 .FEEDERS
 .BLB
-Data\.cub
-Data\.FEEDERS
-Data\.BLB
+Data/.cub
+Data/.FEEDERS
+Data/.BLB
 
 #### Logs ####
 .log
